@@ -1,4 +1,3 @@
-
 # Airport Runway and Flight Management System
 
 A C++ project that manages airport runways, flight arrivals and departures, and emergency priorities.
