@@ -1,21 +1,5 @@
-# Airport Runway and Flight Management System
+## Team and Contributions
 
-A C++ project that manages airport runways, flight arrivals and departures, and emergency priorities.
-
-## Features
-
-- Runway allocation
-- Flight departures and arrivals
-- Emergency priority handling
-
-## How to Run
-
-```bash
-g++ flight.cpp -o flight
-./flight
-```
-
-## Project Files
-
-- `flight.cpp`: main source code
-- `pbl phase 1 report.pdf`: project report
+- **Member 1 (Core Logic):** Flight struct, priority queue, runway queue, completed stack, tick simulation, and emergency handling.
+- **Member 2 (Backend):** Socket HTTP server, API endpoints, JSON state output, input validation, logging, and sample/random flight generation.
+- **Member 3 (Frontend & Docs):** HTML/CSS/JS dashboard, live runway animation, controls, testing, and README documentation.
